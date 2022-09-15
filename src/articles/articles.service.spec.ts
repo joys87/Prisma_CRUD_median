@@ -18,6 +18,7 @@ describe('ArticlesService', () => {
   });
 });
 
-describe("", () => {
-
+describe("getArticles", () => {
+  it("should call prisma home. findMany with correct params", () => {
+  })
 })
